@@ -2,7 +2,8 @@
 
 A big data project investigating how **traffic loads** and **environmental factors** interact to cause asphalt pavement degradation across U.S. counties, using a 15M+ record dataset from the FHWA LTPP InfoPave system.
 
-> 📄 Full research paper: [`The Interplay of Traffic Loads and Environmental Factors in Asphalt Pavement.pdf`](<The Interplay of Traffic Loads and Environmental Factors in Asphalt Pavement.pdf>)
+> 📄 Full research paper: [`The Interplay of Traffic Loads and Environmental Factors in Asphalt Pavement.pdf`](./The_Interplay_of_Traffic_Loads_and_Environmental_Factors_in_Asphalt_Pavement.pdf?raw=1)
+
 
 ---
 
@@ -13,7 +14,7 @@ A big data project investigating how **traffic loads** and **environmental facto
 | 1 | Evaluate how AADTT and ESAL influence pavement performance metrics (MRI and cracking extent) |
 | 2 | Assess the impact of precipitation and freeze-thaw cycles on regional pavement degradation |
 | 3 | Preprocess and clean a 15M+ record dataset using PySpark on Databricks |
-| 4 | Explore correlations between variables using descriptive statistics and visualisations |
+| 4 | Explore correlations between variables using descrigit add README.mdptive statistics and visualisations |
 | 5 | Build and compare ML models (Linear Regression, Random Forest, Gradient Boosted Trees) |
 
 ---
