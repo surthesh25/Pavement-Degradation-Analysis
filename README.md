@@ -176,19 +176,7 @@ Load CSVs → Type Cast → Join on (STATE_CODE, SHRP_ID, YEAR)
 | [Matplotlib](https://matplotlib.org/) | Plotting |
 | [Plotly](https://plotly.com/python/) | Interactive U.S. choropleth map |
 
----
 
-## 👥 Team
-
-**Course:** AIT 614 — Big Data Essentials | George Mason University
-**Instructor:** Dr. Duoduo (Lindi) Liao
-**Submission:** April 29, 2025
-
-| Name | Department | Email |
-|---|---|---|
-| Bala Ashrith Reddy Kommareddy | Data Analytics Engineering | bkommare@gmu.edu |
-| Mohan Silambarasu Elangkumaran | Applied Information Technology | melangku@gmu.edu |
-| Surthesh Velu Samy | Data Analytics Engineering | svelusam@gmu.edu |
 
 ---
 
