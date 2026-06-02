@@ -2,7 +2,7 @@
 
 A big data project investigating how **traffic loads** and **environmental factors** interact to cause asphalt pavement degradation across U.S. counties, using a 15M+ record dataset from the FHWA LTPP InfoPave system.
 
-> 📄 Full research paper: [`The Interplay of Traffic Loads and Environmental Factors in Asphalt Pavement.pdf`](./The_Interplay_of_Traffic_Loads_and_Environmental_Factors_in_Asphalt_Pavement.pdf?raw=1)
+> 📄 Full research paper: [The Interplay of Traffic Loads and Environmental Factors in Asphalt Pavement.pdf](https://raw.githubusercontent.com/surthesh25/Pavement-Degradation-Analysis/main/The_Interplay_of_Traffic_Loads_and_Environmental_Factors_in_Asphalt_Pavement.pdf)
 
 
 ---
@@ -24,7 +24,7 @@ A big data project investigating how **traffic loads** and **environmental facto
 ```
 Pavement-Degradation-Analysis/
 │
-├── notebooks/
+├── src/
 │   └── Project_Working_System_Databricks.ipynb   # Main PySpark notebook (full pipeline)
 │
 ├── The_Interplay_of_Traffic_Loads_and_Environmental_Factors_in_Asphalt_Pavement.pdf
