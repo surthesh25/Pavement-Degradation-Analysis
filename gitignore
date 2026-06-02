@@ -1,0 +1,31 @@
+# Dataset files (large / download from FHWA InfoPave)
+data_climate.csv
+data_performance.csv
+data_traffic.csv
+data_pavement_structure.csv
+*.csv
+
+# Exported HTML notebook versions (too large for GitHub)
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
